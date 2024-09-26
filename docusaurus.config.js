@@ -79,12 +79,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/berkeleycompute',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/berkeley-compute',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/berkeleycompute',
+                label: 'X',
+                href: 'https://x.com/0xberkeley',
               },
             ],
           },
